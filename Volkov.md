@@ -8,14 +8,14 @@ faction: sovereignty
 
 > [!infobox] 
 > # Volkov
-> ![placeholder](attachments/placeholder.png)
+> ![[attachments/placeholder.png]]
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [Vestan Sovereignty](Vestan%20Sovereignty.md) |
+> | Faction | [[Vestan Sovereignty]] |
 > | Rank | Sergeant |
 > | Role |  |
-> | Group/Team | [11th Territorial Battalion](11th%20Territorial%20Battalion.md) |
+> | Group/Team | [[11th Territorial Battalion]] |
 > # Other information
 > | | | 
 > | - | - |

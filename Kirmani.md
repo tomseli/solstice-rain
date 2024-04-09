@@ -6,7 +6,7 @@ tags:
 faction: none
 ---
 # Overview
-One of the first republic leaders of the [LSA](Leandric%20States%20Alliance.md).
+One of the first republic leaders of the [[Leandric States Alliance|LSA]].
 
 
 # Notes

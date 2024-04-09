@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/NPC.md",
-                "mode": "preview",
+                "file": "Leandric States Alliance.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templates/NPC.md",
+                "file": "Leandric States Alliance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/NPC.md"
+                "file": "Leandric States Alliance.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/NPC.md",
+                "file": "Leandric States Alliance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/NPC.md",
+                "file": "Leandric States Alliance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,8 +192,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c574b52f3dd8926",
+  "active": "d377981ba2663e47",
   "lastOpenFiles": [
+    "Kirmani.md",
+    "Kelso.md",
+    "templates/NPC.md",
     "reference/Independent Parties.md",
     "reference/Critical Assistance Missions.md",
     "reference/Anthrochauvinism.md",
@@ -207,7 +210,6 @@
     "Dan Taylor.md",
     "Garcia.md",
     "Katya Drakonos.md",
-    "Kelso.md",
     "Martyn Lincon.md",
     "Naia Reynaud.md",
     "Nilan Bannerjee.md",
@@ -218,8 +220,6 @@
     "reference/Fourth Column.md",
     "reference/GALSIM.md",
     "reference/Interstellar.md",
-    "reference/Liberator Teams.md",
-    "reference/Metropolitan.md",
     "templates - Copy",
     "reference - Copy",
     "attachments - Copy/placeholder.png",

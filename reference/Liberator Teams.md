@@ -11,12 +11,12 @@ faction: union
 > # Liberator Teams
 > | | |
 > | ---- | ---- |
-> | Faction | [Union](Union.md) |
+> | Faction | [[Union]] |
 > | Leader |  |
 > | HQ/Base | |
 
 
 # Overview
-The [DoJ/HR](Union%20Department%20of%20Justice%20and%20Human%20Rights.md)’s LTs are tight-knit, professional strike-and-support units. They employ a liberation-focused approach: once targets are identified, force is valued over diplomacy, and their prime objective is to emancipate and enfranchise enslaved peoples at the expense of their masters. Their tactical doctrines emphasize either infiltration and agitation or direct confrontation, depending on the situation.
+The [[Union Department of Justice and Human Rights|DoJ/HR]]’s LTs are tight-knit, professional strike-and-support units. They employ a liberation-focused approach: once targets are identified, force is valued over diplomacy, and their prime objective is to emancipate and enfranchise enslaved peoples at the expense of their masters. Their tactical doctrines emphasize either infiltration and agitation or direct confrontation, depending on the situation.
 
 # Notes

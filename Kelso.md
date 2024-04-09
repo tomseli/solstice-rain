@@ -8,11 +8,11 @@ faction: union
 
 > [!infobox] 
 > # Kelso
-> ![placeholder](attachments/placeholder.png)
+> ![[attachments/placeholder.png]]
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [Union](reference/Union.md) |
+> | Faction | [[reference/Union]] |
 > | Rank | 2nd lieutenant |
 > | Role |  |
 > | Group/Team | |
@@ -24,9 +24,9 @@ faction: union
 > | Callsign | | 
 
 # Overview
-Got heavily wounded in the crash at [Kirmani](Kirmani.md) Plaza when we were on our way to [FOB Saber](FOB%20Saber.md).
+Got heavily wounded in the crash at [[Kirmani]] Plaza when we were on our way to [[FOB Saber]].
 
-Possible TBI, handed over to [Martyn Lincon](Martyn%20Lincon.md) at the shelter.
+Possible TBI, handed over to [[Martyn Lincon]] at the shelter.
 
 # Notes
 

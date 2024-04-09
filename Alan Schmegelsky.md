@@ -9,11 +9,11 @@ faction: union
 
 > [!infobox] 
 > # Alan Schmegelsky
-> ![placeholder](attachments/placeholder.png)
+> ![[attachments/placeholder.png]]
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [Union](reference/Union.md) |
+> | Faction | [[reference/Union]] |
 > | Rank | Private? |
 > | Role | Grunt |
 > | Group/Team | 3rd Platoon, 1st squad |

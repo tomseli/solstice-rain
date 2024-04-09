@@ -12,7 +12,7 @@ faction: union
 > # Far-Field Teams
 > | | |
 > | ---- | ---- |
-> | Faction | [Union](Union.md) |
+> | Faction | [[Union]] |
 > | Leader |  |
 > | HQ/Base | |
 
@@ -22,6 +22,6 @@ Far-Field Teams - popularly called “rangers”. Flying their iconic Ranger-cla
 
 FFTs are made up of romantics, wanderers, and loners, alongside passionate scientists, technicians, philosophers, and engineers of all disciplines. Their missions are dangerous, often requiring long-term stasis and relativistic travel into unexplored systems not connected to the blink network – the data returned is invaluable, more than worth the risk.
 
-Although the popularity of rangers in romanticized omninet dramas drives [USB](Union%20Science%20Bureau.md) recruitment, they make up a minority of [USB](Union%20Science%20Bureau.md) personnel. The vast majority of [USB](Union%20Science%20Bureau.md) staff are employed in terrestrial and orbital education centers, laboratories, and fabrication sites as researchers, engineers, designers, and technicians. The accessibility and secrecy of these institutions vary: most operate in the public eye, with doors wide open; by contrast, the campuses where the most secret and sensitive work takes place are hidden or otherwise inaccessible to those without clearance.
+Although the popularity of rangers in romanticized omninet dramas drives [[Union Science Bureau|USB]] recruitment, they make up a minority of [[Union Science Bureau|USB]] personnel. The vast majority of [[Union Science Bureau|USB]] staff are employed in terrestrial and orbital education centers, laboratories, and fabrication sites as researchers, engineers, designers, and technicians. The accessibility and secrecy of these institutions vary: most operate in the public eye, with doors wide open; by contrast, the campuses where the most secret and sensitive work takes place are hidden or otherwise inaccessible to those without clearance.
 
 # Notes

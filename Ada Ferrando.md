@@ -9,11 +9,11 @@ faction: lsa
 
 > [!infobox] 
 > # Ada Ferrando
-> ![Lt](attachments/Lt.webp)
+> ![[attachments/Lt.webp]]
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [Leandric States Alliance](Leandric%20States%20Alliance.md) |
+> | Faction | [[Leandric States Alliance]] |
 > | Rank | Colonel |
 > | Role |   |
 > | Group/Team | |

@@ -9,12 +9,12 @@ faction: none
 > # 11th Territorial Battalion
 > | | |
 > | ---- | ---- |
-> | Faction | [Vestan Sovereignty](Vestan%20Sovereignty.md) |
-> | Leader | [Volkov](Volkov.md) |
+> | Faction | [[Vestan Sovereignty]] |
+> | Leader | [[Volkov]] |
 > | HQ/Base | |
 
 
 # Overview
-Main participants in Operation Hyperion, together with [409th Irregulars](409th%20Irregulars.md).
+Main participants in Operation Hyperion, together with [[409th Irregulars]].
 
 # Notes
