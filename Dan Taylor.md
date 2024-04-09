@@ -9,11 +9,11 @@ faction: union
 
 > [!infobox|right] 
 > # Dan Taylor
-> ![[placeholder.png]]
+> ![placeholder](attachments/placeholder.png)
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[Union]] |
+> | Faction | [Union](reference/Union.md) |
 > | Rank | 2nd Lieutenant|
 > | Role |  |
 > | Group/Team | |
@@ -25,7 +25,7 @@ faction: union
 > | Callsign | | 
 
 # Overview
-Recruited to fly a makeshift dropship at [[FOB Saber]]. Preferred to be called Dan.
+Recruited to fly a makeshift dropship at [FOB Saber](FOB%20Saber.md). Preferred to be called Dan.
 
 # Notes
 An absolute chad.

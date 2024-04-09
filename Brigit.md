@@ -8,11 +8,11 @@ faction: sovereignty
 
 > [!infobox|right] 
 > # Brigit
-> ![[placeholder.png]]
+> ![placeholder](attachments/placeholder.png)
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[Vestan Sovereignty]]  |
+> | Faction | [Vestan Sovereignty](Vestan%20Sovereignty.md)  |
 > | Rank | |
 > | Role | Researcher  |
 > | Group/Team | |

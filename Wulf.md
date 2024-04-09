@@ -9,11 +9,11 @@ faction: sovereignty
 
 > [!infobox|right] 
 > # Wulf
-> ![[placeholder.png]]
+> ![placeholder](attachments/placeholder.png)
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[Vestan Sovereignty]]  |
+> | Faction | [Vestan Sovereignty](Vestan%20Sovereignty.md)  |
 > | Rank | Corporal |
 > | Role |  |
 > | Group/Team | |
@@ -25,7 +25,7 @@ faction: sovereignty
 > | Callsign | Talos | 
 
 # Overview
-An elite sentinel commander of the [[409th irregulars]].
+An elite sentinel commander of the [409th Irregulars](409th%20Irregulars.md).
 
 # Notes
 

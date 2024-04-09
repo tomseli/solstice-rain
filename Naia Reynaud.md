@@ -9,11 +9,11 @@ faction: union
 
 > [!infobox|right] 
 > # Naia Reynaud
-> ![[placeholder.png]]
+> ![placeholder](attachments/placeholder.png)
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[Union]] |
+> | Faction | [Union](reference/Union.md) |
 > | Rank | |
 > | Role | Engineer |
 > | Group/Team | |
@@ -25,7 +25,7 @@ faction: union
 > | Callsign | | 
 
 # Overview
-A "no shits given" engineer at [[FOB Saber]]
+A "no shits given" engineer at [FOB Saber](FOB%20Saber.md)
 
 # Notes
 - Upgraded Nostalgia with "up-armoring" for Operation Orpheus Descending.

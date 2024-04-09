@@ -9,11 +9,11 @@ faction: sovereignty
 
 > [!infobox|right] 
 > # Katya Drakonos
-> ![[placeholder.png]]
+> ![placeholder](attachments/placeholder.png)
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[Vestan Sovereignty]] |
+> | Faction | [Vestan Sovereignty](Vestan%20Sovereignty.md) |
 > | Rank | |
 > | Role | Armored Battalion Commander |
 > | Group/Team | |

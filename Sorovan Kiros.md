@@ -9,14 +9,14 @@ faction: sovereignty
 
 > [!infobox|right] 
 > # Sorovan Kiros
-> ![[placeholder.png]]
+> ![placeholder](attachments/placeholder.png)
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[Vestan Sovereignty]] |
+> | Faction | [Vestan Sovereignty](Vestan%20Sovereignty.md) |
 > | Rank | Colonel |
 > | Role | Lancer |
-> | Group/Team | [[409th Irregulars]] |
+> | Group/Team | [409th Irregulars](409th%20Irregulars.md) |
 > # Other information
 > | | | 
 > | - | - |
@@ -25,7 +25,7 @@ faction: sovereignty
 > | Callsign | Alecto | 
 
 # Overview
-Met at the Reasearch Center\*, captured there and captured to be brought to an [[Leandric States Alliance|LSA]] carrier.
+Met at the Reasearch Center\*, captured there and captured to be brought to an [LSA](Leandric%20States%20Alliance.md) carrier.
 
 \* Royal broke his mech, Alecto, in an earlier fight.
 

@@ -9,12 +9,12 @@ faction: union
 > # Independent Parties
 > | | |
 > | ---- | ---- |
-> | Faction | [[Union]] |
+> | Faction | [Union](Union.md) |
 > | Leader |  |
 > | HQ/Base | |
 
 
 # Overview
-The remainder of [[Union Central Committee|CentComm]]’s members, roughly 5 percent, is composed of independent parties. Representation in this non-category category fluctuates with each election but has yet to exceed seven percent.
+The remainder of [CentComm](Union%20Central%20Committee.md)’s members, roughly 5 percent, is composed of independent parties. Representation in this non-category category fluctuates with each election but has yet to exceed seven percent.
 
 # Notes

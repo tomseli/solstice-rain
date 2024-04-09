@@ -9,23 +9,23 @@ faction: sovereignty
 > # 409th Irregulars
 > | | |
 > | ---- | ---- |
-> | Faction | [[Vestan Sovereignty]] |
-> | Leader | [[Wulf]] |
+> | Faction | [Vestan Sovereignty](Vestan%20Sovereignty.md) |
+> | Leader | [Wulf](Wulf.md) |
 > | HQ/Base | |
 
 
 # Overview
-Main participants in Operation Hyperion, together with [[11th Territorial Battalion]].
+Main participants in Operation Hyperion, together with [11th Territorial Battalion](11th%20Territorial%20Battalion.md).
 
-Under orders of [[Sorovan Kiros|Kiros]], they spoofed orders regarding the original mobilization and deployment orders.
+Under orders of [Kiros](Sorovan%20Kiros.md), they spoofed orders regarding the original mobilization and deployment orders.
 
 # Notes
 Other notable members:
 - Athena
 - Ares
-	- According to [[Uwimana]] they perished.
+	- According to [Uwimana](Uwimana.md) they perished.
 - Dionysus
-	- According to [[Uwimana]] they retired.
+	- According to [Uwimana](Uwimana.md) they retired.
 - Hades
 - Hermes
 

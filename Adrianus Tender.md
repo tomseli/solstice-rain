@@ -9,11 +9,11 @@ faction: union
 
 > [!infobox|right] 
 > # Adrianus Tender
-> ![[placeholder.png]]
+> ![placeholder](attachments/placeholder.png)
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[Union]] |
+> | Faction | [Union](reference/Union.md) |
 > | Rank | Private |
 > | Role |  |
 > | Group/Team | |

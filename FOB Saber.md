@@ -5,16 +5,16 @@ tags:
   - place
 faction: union
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # FOB Saber
 > | | |
 > | ---- | ---- |
-> | World | [[Cressidium]] |
-> | Faction | [[Union]] |
+> | World | [Cressidium](Cressidium.md) |
+> | Faction | [Union](reference/Union.md) |
 > 
 
 
 # Overview
-A [[Union]] FOB, in alliance with [[Leandric States Alliance|LSA]], set up in [[Nov Elysia]] after the [[Vestan Sovereignty|Sovereignty]] attacked.
+A [Union](reference/Union.md) FOB, in alliance with [LSA](Leandric%20States%20Alliance.md), set up in [Nov Elysia](Nov%20Elysia.md) after the [Sovereignty](Vestan%20Sovereignty.md) attacked.
 
 # Notes

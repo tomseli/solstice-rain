@@ -9,11 +9,11 @@ faction: union
 
 > [!infobox|right] 
 > # Martyn Lincon
-> ![[placeholder.png]]
+> ![placeholder](attachments/placeholder.png)
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[Union]] |
+> | Faction | [Union](reference/Union.md) |
 > | Rank | Lance Corporal |
 > | Role | Marine |
 > | Group/Team | |

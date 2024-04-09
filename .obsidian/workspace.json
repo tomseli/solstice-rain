@@ -11,8 +11,13 @@
             "id": "74f43544cd13875b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "409th Irregulars.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -74,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "409th Irregulars.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "409th Irregulars.md"
+              }
             }
           }
         ]
@@ -123,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "409th Irregulars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "409th Irregulars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +177,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,14 +194,40 @@
   },
   "active": "74f43544cd13875b",
   "lastOpenFiles": [
+    "Zheng - Copy.md",
+    "Wulf - Copy.md",
+    "Volkov - Copy.md",
+    "Vestan Sovereignty - Copy.md",
+    "Uwimana - Copy.md",
+    "Sorovan Kiros - Copy.md",
+    "Nov Elysia - Copy.md",
+    "Nilan Bannerjee - Copy.md",
+    "Naia Reynaud - Copy.md",
+    "Martyn Lincon - Copy.md",
+    "Leandric States Alliance - Copy.md",
+    "Kirmani - Copy.md",
+    "Kelso - Copy.md",
+    "Katya Drakonos - Copy.md",
+    "Garcia - Copy.md",
+    "FOB Saber - Copy.md",
+    "Dan Taylor - Copy.md",
+    "Cressidium - Copy.md",
+    "Brigit - Copy.md",
+    "Brigid Farris - Copy.md",
+    "Barbossa - Copy.md",
+    "Alex Kim - Copy.md",
+    "Alan Schmegelsky - Copy.md",
+    "Adrianus Tender - Copy.md",
+    "Ada Ferrando - Copy.md",
+    "409th Irregulars - Copy.md",
+    "templates - Copy",
+    "reference - Copy",
+    "attachments - Copy/placeholder.png",
+    "attachments - Copy/Pasted image 20240407195240.jpg",
+    "attachments - Copy/Lt.webp",
+    "attachments - Copy",
     "quartz.zip",
     "quartz.zip.tmp",
-    "content/409th Irregulars.md",
-    "content/reference/Union.md",
-    "Union Naval Department.md",
-    "docs/features/table of contents.md",
-    "content/index.md",
-    "docs/configuration.md",
     "public/404.html",
     "public/attachments/placeholder.png",
     "public/attachments/Pasted-image-20240407195240.jpg",
@@ -201,33 +238,7 @@
     "public/static/contentIndex.json",
     "public/static",
     "public/index.xml",
-    "public/sitemap.xml",
-    "public/tags/world.html",
-    "public/tags/place.html",
-    "public/tags/person.html",
-    "content/reference/Union Economic Bureau.md",
-    "content/reference/Union Department of Justice and Human Rights.md",
-    "content/reference/Union Central Committee.md",
-    "content/reference/Union Bureau of Orbital and non-Terrestial Management.md",
-    "content/reference/Union Bureau of Colonial Administration.md",
-    "content/reference/Union Administrative Department.md",
-    "content/reference/Third Committee.md",
-    "content/reference/The Voices of Old Humanity.md",
-    "content/reference/The Three Great Traumas.md",
-    "content/reference/The Ten.md",
-    "content/reference/The Little Wars.md",
-    "content/reference/The Fall.md",
-    "content/reference/The Discovery of the Massif Vaults.md",
-    "content/Cressidium.md",
-    "content/Brigit.md",
-    "content/Brigid Farris.md",
-    "content/Barbossa.md",
-    "content/Alex Kim.md",
-    "content/Alan Schmegelsky.md",
     "content/attachments/placeholder.png",
-    "content/attachments/Pasted image 20240407195240.jpg",
-    "content/attachments/Lt.webp",
-    "attachments/Pasted image 20240407195240.jpg",
-    "attachments/Lt.webp"
+    "content/attachments/Pasted image 20240407195240.jpg"
   ]
 }
