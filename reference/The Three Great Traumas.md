@@ -6,7 +6,7 @@ tags:
 faction: none
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # The Three Great Traumas
 > | | |
 > | ---- | ---- |

@@ -5,7 +5,7 @@ tags:
   - group
 faction: union
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # Union Bureau of Colonial Administration
 > | | |
 > | ---- | ---- |

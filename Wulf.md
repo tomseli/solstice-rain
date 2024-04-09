@@ -7,7 +7,7 @@ tags:
 faction: sovereignty
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Wulf
 > ![placeholder](attachments/placeholder.png)
 > # Association

@@ -7,7 +7,7 @@ tags:
 faction: none
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # <% tp.file.title %>
 > ![placeholder](../attachments/placeholder.png)
 > # Association

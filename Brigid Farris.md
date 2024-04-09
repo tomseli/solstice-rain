@@ -7,7 +7,7 @@ tags:
 faction: union
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Brigid Farris
 > ![](https://lh6.googleusercontent.com/Pf8DyBh4OvXUo0lWxXFX2_UzxRo3LsFr-_7v7c_W2NOqlTWZ3WXo_Bydg36WfxZBBglH3LP7yX6FKp4feJchUc9ZX-YB6enCma0D9VGea20b70LdbZeUqVfEf66HJCXBOL9iVL3bemh85FfPKHHb46U)
 > # Association

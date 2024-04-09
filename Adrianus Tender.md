@@ -7,7 +7,7 @@ tags:
 faction: union
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Adrianus Tender
 > ![placeholder](attachments/placeholder.png)
 > # Association

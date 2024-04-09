@@ -7,7 +7,7 @@ tags:
 faction: sovereignty
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Sorovan Kiros
 > ![placeholder](attachments/placeholder.png)
 > # Association

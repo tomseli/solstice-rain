@@ -6,7 +6,7 @@ tags:
 faction: lsa
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Zheng
 > ![placeholder](attachments/placeholder.png)
 > # Association

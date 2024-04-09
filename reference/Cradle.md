@@ -5,7 +5,7 @@ tags:
   - world
 faction: union
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # Cradle
 > | | |
 > | ---- | ---- |

@@ -5,7 +5,7 @@ tags:
   - place
 faction: lsa
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # Nov Elysia
 > | | |
 > | ---- | ---- |

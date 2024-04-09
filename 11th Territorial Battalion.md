@@ -5,7 +5,7 @@ tags:
   - group
 faction: none
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # 11th Territorial Battalion
 > | | |
 > | ---- | ---- |

@@ -5,7 +5,7 @@ tags:
   - group
 faction: sovereignty
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # 409th Irregulars
 > | | |
 > | ---- | ---- |

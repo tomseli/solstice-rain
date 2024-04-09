@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a66fc7b2113be652",
+        "id": "158c189e560973fc",
         "type": "tabs",
         "children": [
           {
-            "id": "74f43544cd13875b",
+            "id": "d377981ba2663e47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "409th Irregulars.md",
+                "file": "templates/NPC.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -50,7 +50,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "409th Irregulars.md",
+                "file": "templates/NPC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "409th Irregulars.md"
+                "file": "templates/NPC.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "409th Irregulars.md",
+                "file": "templates/NPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "409th Irregulars.md",
+                "file": "templates/NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,34 +192,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74f43544cd13875b",
+  "active": "0c574b52f3dd8926",
   "lastOpenFiles": [
-    "Zheng - Copy.md",
-    "Wulf - Copy.md",
-    "Volkov - Copy.md",
-    "Vestan Sovereignty - Copy.md",
-    "Uwimana - Copy.md",
-    "Sorovan Kiros - Copy.md",
-    "Nov Elysia - Copy.md",
-    "Nilan Bannerjee - Copy.md",
-    "Naia Reynaud - Copy.md",
-    "Martyn Lincon - Copy.md",
-    "Leandric States Alliance - Copy.md",
-    "Kirmani - Copy.md",
-    "Kelso - Copy.md",
-    "Katya Drakonos - Copy.md",
-    "Garcia - Copy.md",
-    "FOB Saber - Copy.md",
-    "Dan Taylor - Copy.md",
-    "Cressidium - Copy.md",
-    "Brigit - Copy.md",
-    "Brigid Farris - Copy.md",
-    "Barbossa - Copy.md",
-    "Alex Kim - Copy.md",
-    "Alan Schmegelsky - Copy.md",
-    "Adrianus Tender - Copy.md",
-    "Ada Ferrando - Copy.md",
-    "409th Irregulars - Copy.md",
+    "reference/Independent Parties.md",
+    "reference/Critical Assistance Missions.md",
+    "reference/Anthrochauvinism.md",
+    "409th Irregulars.md",
+    "Ada Ferrando.md",
+    "Adrianus Tender.md",
+    "Alan Schmegelsky.md",
+    "Brigid Farris.md",
+    "Brigit.md",
+    "Cressidium.md",
+    "Dan Taylor.md",
+    "Garcia.md",
+    "Katya Drakonos.md",
+    "Kelso.md",
+    "Martyn Lincon.md",
+    "Naia Reynaud.md",
+    "Nilan Bannerjee.md",
+    "reference/Cradle.md",
+    "reference/Diasporan.md",
+    "reference/Far-Field Teams.md",
+    "reference/First Contact Accords.md",
+    "reference/Fourth Column.md",
+    "reference/GALSIM.md",
+    "reference/Interstellar.md",
+    "reference/Liberator Teams.md",
+    "reference/Metropolitan.md",
     "templates - Copy",
     "reference - Copy",
     "attachments - Copy/placeholder.png",

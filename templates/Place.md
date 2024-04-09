@@ -5,7 +5,7 @@ tags:
   - place
 faction: none
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # <% tp.file.title %>
 > | | |
 > | ---- | ---- |

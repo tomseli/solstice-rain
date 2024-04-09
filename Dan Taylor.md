@@ -7,7 +7,7 @@ tags:
 faction: union
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Dan Taylor
 > ![placeholder](attachments/placeholder.png)
 > # Association

@@ -5,7 +5,7 @@ tags:
   - group
 faction: union
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # Office of Cartography and Universal Positioning
 > | | |
 > | ---- | ---- |

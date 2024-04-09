@@ -6,7 +6,7 @@ tags:
 faction: sovereignty
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Brigit
 > ![placeholder](attachments/placeholder.png)
 > # Association

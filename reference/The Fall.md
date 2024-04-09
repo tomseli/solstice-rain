@@ -6,7 +6,7 @@ tags:
 faction: none
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # The Fall 1
 > | | |
 > | ---- | ---- |

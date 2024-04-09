@@ -5,7 +5,7 @@ tags:
   - group
 faction: union
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # Second Committee
 > | | |
 > | ---- | ---- |

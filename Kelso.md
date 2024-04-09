@@ -6,7 +6,7 @@ tags:
 faction: union
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Kelso
 > ![placeholder](attachments/placeholder.png)
 > # Association

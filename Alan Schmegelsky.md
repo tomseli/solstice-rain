@@ -7,7 +7,7 @@ tags:
 faction: union
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Alan Schmegelsky
 > ![placeholder](attachments/placeholder.png)
 > # Association

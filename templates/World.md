@@ -5,7 +5,7 @@ tags:
   - world
 faction: none
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # <% tp.file.title %>
 > | | |
 > | ---- | ---- |

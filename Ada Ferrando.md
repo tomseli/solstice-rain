@@ -7,7 +7,7 @@ tags:
 faction: lsa
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Ada Ferrando
 > ![Lt](attachments/Lt.webp)
 > # Association

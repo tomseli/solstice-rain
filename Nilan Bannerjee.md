@@ -8,7 +8,7 @@ tags:
 faction: union
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Nilan Bannerjee
 > ![](https://lh4.googleusercontent.com/Y2Cuwcb2Cs-9W3NDtidc2edRLeoa64hThNWyXK1axPEGSg-5TquH_-X8E5yVMQTVg_vAS0T7PiDCDLPErbX_AL2Z1t2xTY7A8SaFQ9QcU6AsxLq1MHkUgODax9EqOKtsIIDxyyM6OULjfhb6Rrtd_L4)
 > # Assosciation

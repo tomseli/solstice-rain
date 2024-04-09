@@ -7,7 +7,7 @@ tags:
 faction: 
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Alex Kim
 > ![](https://lh4.googleusercontent.com/2z5lCy6xl8YiEA_6dtcJEqKMqgX7BvWDExOrv_9vmonFO9wvZt3B98v5IxV1gmPTEtoeUvmBSDOQZJfbyx8ouYTuPt2lAe9mbEgpyFMgqklqiJPClPFcugtO4JuQoI3DSNsKU3FJRRs2OYMRZlkSvsM)
 > # Association

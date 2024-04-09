@@ -6,7 +6,7 @@ tags:
   - group
 faction: union
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # Union Bureau of Orbital and non-Terrestial Management
 > | | |
 > | ---- | ---- |

@@ -8,7 +8,7 @@ tags:
   - group
 faction: union
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # Far-Field Teams
 > | | |
 > | ---- | ---- |

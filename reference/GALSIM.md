@@ -5,7 +5,7 @@ tags:
   - group
 faction: 
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # Forecast/GALSIM
 > | | |
 > | ---- | ---- |

@@ -6,7 +6,7 @@ tags:
 faction: sovereignty
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Barbossa
 > ![placeholder](attachments/placeholder.png)
 > # Association

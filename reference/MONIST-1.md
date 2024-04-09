@@ -7,7 +7,7 @@ tags:
 faction: 
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # MONIST-1
 > ![Pasted image 20240407195240](../attachments/Pasted%20image%2020240407195240.jpg)
 > # Association

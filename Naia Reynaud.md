@@ -7,7 +7,7 @@ tags:
 faction: union
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Naia Reynaud
 > ![placeholder](attachments/placeholder.png)
 > # Association

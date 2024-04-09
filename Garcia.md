@@ -7,7 +7,7 @@ tags:
 faction: union 
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Garcia
 > ![placeholder](attachments/placeholder.png)
 > # Association

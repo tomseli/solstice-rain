@@ -7,7 +7,7 @@ tags:
   - group
 faction: union
 ---
-> [!infobox|right] 
+> [!infobox] 
 > # Critical Assistance Missions
 > | | |
 > | ---- | ---- |

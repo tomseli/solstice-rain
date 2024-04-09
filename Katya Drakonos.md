@@ -7,7 +7,7 @@ tags:
 faction: sovereignty
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Katya Drakonos
 > ![placeholder](attachments/placeholder.png)
 > # Association

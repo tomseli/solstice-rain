@@ -7,7 +7,7 @@ tags:
 faction: union
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Martyn Lincon
 > ![placeholder](attachments/placeholder.png)
 > # Association

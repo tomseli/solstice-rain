@@ -9,7 +9,7 @@ tags:
 faction: none
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # First Contact Accords
 > | | |
 > | ---- | ---- |

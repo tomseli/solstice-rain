@@ -6,7 +6,7 @@ tags:
 faction: lsa
 ---
 
-> [!infobox|right] 
+> [!infobox] 
 > # Uwimana
 > ![placeholder](attachments/placeholder.png)
 > # Association
