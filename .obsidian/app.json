@@ -1,0 +1,9 @@
+{
+  "livePreview": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "templates/"
+  ]
+}

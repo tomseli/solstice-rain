@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "195b480a7e3793f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a66fc7b2113be652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74f43544cd13875b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "406bc97d57c771cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c26633d3af3b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c574b52f3dd8926",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a38891a1c8c93f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "19434371aa2dfd2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c02f14065ec30e",
+        "type": "tabs",
+        "dimension": 30.714285714285715,
+        "children": [
+          {
+            "id": "636792f3082c43e6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -2.2,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 4.27083333333333,
+                  "linkStrength": 1,
+                  "linkDistance": 135,
+                  "scale": 0.7132754626224432,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "af7af9ffcdfc14b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4df0970df165045d",
+        "type": "tabs",
+        "dimension": 69.28571428571428,
+        "children": [
+          {
+            "id": "1cfd99249a4ea023",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7510a01a75e1ea33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4d8aa51c89fb10a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6261da33ed09a003",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "74f43544cd13875b",
+  "lastOpenFiles": [
+    "quartz.zip",
+    "quartz.zip.tmp",
+    "content/409th Irregulars.md",
+    "content/reference/Union.md",
+    "Union Naval Department.md",
+    "docs/features/table of contents.md",
+    "content/index.md",
+    "docs/configuration.md",
+    "public/404.html",
+    "public/attachments/placeholder.png",
+    "public/attachments/Pasted-image-20240407195240.jpg",
+    "public/attachments/Lt.webp",
+    "public/attachments",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "public/static/contentIndex.json",
+    "public/static",
+    "public/index.xml",
+    "public/sitemap.xml",
+    "public/tags/world.html",
+    "public/tags/place.html",
+    "public/tags/person.html",
+    "content/reference/Union Economic Bureau.md",
+    "content/reference/Union Department of Justice and Human Rights.md",
+    "content/reference/Union Central Committee.md",
+    "content/reference/Union Bureau of Orbital and non-Terrestial Management.md",
+    "content/reference/Union Bureau of Colonial Administration.md",
+    "content/reference/Union Administrative Department.md",
+    "content/reference/Third Committee.md",
+    "content/reference/The Voices of Old Humanity.md",
+    "content/reference/The Three Great Traumas.md",
+    "content/reference/The Ten.md",
+    "content/reference/The Little Wars.md",
+    "content/reference/The Fall.md",
+    "content/reference/The Discovery of the Massif Vaults.md",
+    "content/Cressidium.md",
+    "content/Brigit.md",
+    "content/Brigid Farris.md",
+    "content/Barbossa.md",
+    "content/Alex Kim.md",
+    "content/Alan Schmegelsky.md",
+    "content/attachments/placeholder.png",
+    "content/attachments/Pasted image 20240407195240.jpg",
+    "content/attachments/Lt.webp",
+    "attachments/Pasted image 20240407195240.jpg",
+    "attachments/Lt.webp"
+  ]
+}
