@@ -13,7 +13,7 @@ faction: union
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[reference/Union]] |
+> | Faction | [[reference/union]] |
 > | Rank | Private |
 > | Role |  |
 > | Group/Team | |

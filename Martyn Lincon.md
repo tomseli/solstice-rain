@@ -13,7 +13,7 @@ faction: union
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[reference/Union]] |
+> | Faction | [[reference/union]] |
 > | Rank | Lance Corporal |
 > | Role | Marine |
 > | Group/Team | |

@@ -13,7 +13,7 @@ faction: union
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[reference/Union]] |
+> | Faction | [[reference/union]] |
 > | Rank | Private? |
 > | Role | Grunt |
 > | Group/Team | 3rd Platoon, 1st squad |

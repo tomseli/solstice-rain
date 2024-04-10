@@ -12,7 +12,7 @@ faction: union
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[reference/Union]] |
+> | Faction | [[reference/union]] |
 > | Rank | 2nd lieutenant |
 > | Role |  |
 > | Group/Team | |

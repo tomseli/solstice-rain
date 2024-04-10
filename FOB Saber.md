@@ -10,11 +10,11 @@ faction: union
 > | | |
 > | ---- | ---- |
 > | World | [[Cressidium]] |
-> | Faction | [[reference/Union]] |
+> | Faction | [[reference/union]] |
 > 
 
 
 # Overview
-A [[reference/Union]] FOB, in alliance with [[Leandric States Alliance|LSA]], set up in [[Nov Elysia]] after the [[Vestan Sovereignty|Sovereignty]] attacked.
+A [[reference/union|Union]] FOB, in alliance with [[Leandric States Alliance|LSA]], set up in [[Nov Elysia]] after the [[Vestan Sovereignty|Sovereignty]] attacked.
 
 # Notes

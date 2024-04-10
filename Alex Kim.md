@@ -13,7 +13,7 @@ faction:
 > # Association
 > | | |
 > | ---- | ---- |
-> | Faction | [[reference/Union]] |
+> | Faction | [[reference/union]] |
 > | Rank | 1st Lieutenant |
 > | Role | XO of the Rio Grande |
 > | Group/Team | |
